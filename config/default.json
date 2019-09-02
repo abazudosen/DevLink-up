@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://abaz:devlife101@ds349857.mlab.com:49857/dev-linkup",
+  "jwtSecret": "sdsfwewgqgwrg2@3993$n",
+  "githubClientId": "",
+  "githubSecret": ""
+}
